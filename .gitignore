@@ -1,0 +1,23 @@
+node_modules/
+dist/
+build/
+coverage/
+
+# local persistent dev database
+.data/
+
+# env
+.env
+.env.local
+*.local
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/
+*.swp
