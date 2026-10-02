@@ -273,5 +273,3 @@ automatically for CORS.
 - [ ] Password reset / email verification (out of scope — see above)
 
 ---
-
-Built by Shamratha.
